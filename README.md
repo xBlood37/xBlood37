@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img src="https://media2.giphy.com/media/f3e3vLxB7TOuIxDVrX/giphy.gif"/>
+</div>
+
 <!--
 **xBlood37/xBlood37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
