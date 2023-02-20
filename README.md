@@ -2,6 +2,7 @@
 <div style="display: flex; align-items: center; justify-content: center;">
   <p>Shalom boys and men 👋</p>
   <p> INST: @xblood_372</p>
+  <p>YouTube: https://www.youtube.com/channel/UCsLQBbK0qf2ZcgWfMjqQlwg</p>
 </div>
 
 <!--
