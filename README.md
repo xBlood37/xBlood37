@@ -1,4 +1,4 @@
-### Hi there 👋
+### Shalom boys and men 👋
 
 <div style="display: flex; align-items: center; justify-content: center;">
   <img src="https://media2.giphy.com/media/f3e3vLxB7TOuIxDVrX/giphy.gif"/>
