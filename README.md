@@ -1,13 +1,13 @@
 
 <div style="display: flex; align-items: center; justify-content: center;">
-  <p>Shalom boys and men 👋</p>
+  <p>Shalom👋</p>
   <p> INST: @xblood_372</p>
   <p>YouTube: https://www.youtube.com/channel/UCsLQBbK0qf2ZcgWfMjqQlwg</p>
 </div>
 
-<!--
 **xBlood37/xBlood37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
